@@ -1,0 +1,1 @@
+include ':launcher', ':app', ':base', ':instantapp', ':second'
